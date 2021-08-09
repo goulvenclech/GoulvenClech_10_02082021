@@ -16,6 +16,10 @@ Diapo soutenance : ***(Work in progress)***
 
 ***(Work in progress)***
 
+`cahier-des-charges.md` : Document court résumant le rôle, les fonctionnalités et les contraintes du projet
+
+`plan-technique.md` : Architecture technique et fonctionelle du projet
+
 `NomD'unePage/` : Chaque page de l'application à son propre dossier contenant...
 
 - `userstory.md` : décrivant les parcours utilisateurs sur la page

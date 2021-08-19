@@ -8,25 +8,19 @@ J'ai également dû réaliser un kanban découpant les tâches d'un point de vue
 
 Adresse du répo : https://github.com/GoulvenC/GoulvenClech_10_02082021
 
-Démo live : ***(Pas nécéssaire pour l'instant)***
+Adresse du wiki : https://github.com/GoulvenC/GoulvenClech_10_02082021/wiki
+
+Adresse du répo wiki : https://github.com/GoulvenC/GoulvenClech_10_02082021.wiki.git
 
 Diapo soutenance : ***(Work in progress)***
+
+## Organisation du wiki
+
+***(Work in progress)***
 
 ## Organisation du projet
 
 ***(Work in progress)***
-
-`cahier-des-charges.md` : Document court résumant le rôle, les fonctionnalités et les contraintes du projet
-
-`plan-technique.md` : Architecture technique et fonctionelle du projet
-
-`NomD'unePage/` : Chaque page de l'application à son propre dossier contenant...
-
-- `userstory.md` : décrivant les parcours utilisateurs sur la page
-
-- `livrable-client.pdf` : le document final, à présenter au client
-
-`README.md` : le document que vous lisez actuellement
 
 ## License 
 
